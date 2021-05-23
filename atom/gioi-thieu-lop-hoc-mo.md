@@ -21,8 +21,8 @@
   * 60’: Hands-on Lab 
 * **Đánh giá:**
   * **Home Assignment** \(x8\): 
-    * Học viên hoàn thành assignments nhiều nhất có thể và submit trên channel chung \(Slack\) trước buổi học Thứ bảy hàng tuần
-    * “Last Chance”: Sau buổi học, học viên có thể hoàn chỉnh thêm assignment theo nội dung review trong lớp học, và submit lại trước 12h trưa Chủ nhật \(sau buổi học\)
+    * Học viên hoàn thành assignments nhiều nhất có thể và submit trên channel chung \(Slack\) trước **5h chiều, Thứ 5 hàng tuần**
+    * “Last Chance”: Sau buổi học, học viên có thể hoàn chỉnh thêm assignment theo nội dung review trong lớp học, và submit lại trước **12h trưa Chủ nhật \(sau buổi học\)**
   * **Bài báo cáo ATOM Fair**
   * Từ kết quả xếp loại, DATAcracy sẽ chọn ra 20 Học viên cho Giai đoạn SCALA
 
@@ -71,14 +71,15 @@ _Nếu học viên vắng mặt sẽ không được tính điểm buổi đó, 
 
 * GCP Cloud Functions
 * GCP BigQuery & SQL \(2\)
+* Python Pandas \(1\) 
 * _Materials:_
   * Online Course: [GCP Big Data & ML Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals#syllabus)
 
 ### Week 6: Very Practical Maths & ML \(1\)
 
 * Statistics & Probabilities with minimum pain
-* Modeling Decisions with Multi-Criteria Decision Making
 * Regression Methods
+* Python Pandas \(2\) 
 * _Materials:_
   * Online Course: [Basic Data Descriptors, Statistical Distribution & Applications](https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application?specialization=business-statistics-analysis#syllabus)
 
